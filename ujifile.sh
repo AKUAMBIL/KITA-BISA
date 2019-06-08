@@ -1,0 +1,2 @@
+echo
+whats up
